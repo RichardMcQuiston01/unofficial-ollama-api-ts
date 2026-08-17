@@ -1,4 +1,4 @@
-# @richardmcuiston01/unofficial-ollama-api
+# @richardmcquiston01/unofficial-ollama-api
 
 ## Overview
 
